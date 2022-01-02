@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lithuania712
 - 👀 I’m interested in Making bots
-- 🌱 I’m currently learning JS,PHP, C, Java
-- 💞️ I’m looking to collaborate on Discord
+- 🌱 I’m currently learning JS,PHP, C, C++ and Java
 - 📫 How to reach me Discord: Domantax404#8256
 
 <!---
